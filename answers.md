@@ -35,5 +35,15 @@ Le dépôt original n'a pas été modifié. Le dépôt cloné est une copie du d
 ## Gitgraph
 
 ### Task 7
+1. Branche (develop)
+2. identifiant de commit
+3. message de commit
+4. auteur du commit
+5. tag
+6. branche dernier commit
+7. Point de merge
+8. Branche principale (main)
+9. Historique des commits
+10. Commit initial
 
 ![Gitgraph](img/gitgraph.svg)
