@@ -16,13 +16,21 @@
 
 
 ### Task 3
- Le statut du dépôt indique qu'il n'y a pas de modifications en attente, ce qui signifie que toutes les modifications ont été ajoutées à l'index et qu'un commit a été effectué.
+Un fichier README a été ajouté, pas d'autres modifications.
 
 ### Task 4
 
-### Task 5
+Lorsque l'on revient au commit "initial commit", le dépôt revient à l'état du commit initial.
 
+
+Lorsque l'on revient au dernier commit, le dépôt revient à l'état du dernier commit.
+
+### Task 5
+La différence entre le dépôt local et le dépôt distant est que le dépôt local contient un commit supplémentaire qui n'a pas encore été poussé (push) vers le dépôt distant. 
+
+Si l'on supprime le dépot local, le dépôt distant restera inchangé et contiendra toujours les commits précédents, mais le commit supplémentaire présent dans le dépôt local qui n'a pas encore été poussé (push) sera perdu.
 ### Task 6
+Le dépôt original n'a pas été modifié. Le dépôt cloné est une copie du dépôt original à l'état où il a été cloné. Les deux dépôts sont indépendants l'un de l'autre après le clonage.
 
 ## Gitgraph
 
